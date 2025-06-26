@@ -1,0 +1,6 @@
+{
+    "ipinfo_token": "7c01ff54e5bd4c",
+    "shodan_key": "YOUR_SHODAN_API_KEY",
+    "hibp_key": "YOUR_HIBP_API_KEY",
+    "hunter_key": "YOUR_HUNTER_API_KEY"
+}
