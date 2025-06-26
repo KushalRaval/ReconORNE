@@ -1,6 +1,3 @@
-# ReconORNE
-Advanced OSINT &amp; Recon toolkit for domains, emails, IPs, and social media usernames.
-
 # 🚀 ReconORNE - Advanced OSINT & Reconnaissance Toolkit
 
 ReconORNE is a powerful Python-based OSINT toolkit built for ethical hackers, bug bounty hunters, and cybersecurity analysts. It helps you gather deep intelligence on domains, IPs, emails, and social media usernames.
@@ -25,4 +22,5 @@ ReconORNE is a powerful Python-based OSINT toolkit built for ethical hackers, bu
 git clone https://github.com/yourusername/ReconORNE.git
 cd ReconORNE
 pip install -r requirements.txt
+python ReconORNE.py
 ```
