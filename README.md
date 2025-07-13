@@ -19,7 +19,7 @@ ReconORNE is a powerful Python-based OSINT toolkit built for ethical hackers, bu
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ReconORNE.git
+git clone https://github.com/KushalRaval/ReconORNE.git
 cd ReconORNE
 pip install -r requirements.txt
 python ReconORNE.py
